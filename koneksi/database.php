@@ -3,7 +3,7 @@
 $host     = "localhost";
 $username = "root";       // Sesuaikan dengan username database Anda
 $password = "";           // Sesuaikan dengan password database Anda
-$database = "db_bioskop"; // Sesuaikan dengan nama database Anda pada Tahap 1
+$database = "db_latihan_pbo_ti1c_nafisrizqiramadhan"; // Sesuaikan dengan nama database Anda pada Tahap 1
 
 try {
     // Membuat instance PDO baru
